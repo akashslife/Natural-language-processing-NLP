@@ -6,13 +6,13 @@
 
 3) Create the Bag-of-word using NLTK
 
-4)-To find N-grams from the corpus.
+4) To find N-grams from the corpus.
 
 5) To perform POS tagging on given Corpus.
 
 6) To perform IOB tagging on given Corpus.
 
-7)To perform Text Dependency Parsing.
+7) To perform Text Dependency Parsing.
 
 8) To Perform NER Tagging
 
