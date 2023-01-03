@@ -4,7 +4,7 @@
 
 2) To Perform Word Analysis using NLTK.
 
-3) Create the Bag-of-word using NLTK
+3) To Create the Bag-of-word using NLTK
 
 4) To find N-grams from the corpus.
 
